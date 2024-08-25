@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miners-grace:cogwheel"
+  },
+  "base": {
+    "item": "miners-grace:metal_detector_stage_two"
+  },
+  "result": {
+    "item": "miners-grace:metal_detector_stage_three"
+  },
+  "template": {
+    "item": "miners-grace:magnifier"
+  }
+}

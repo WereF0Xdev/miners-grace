@@ -1,0 +1,4 @@
+// 1.20.1	2024-08-23T21:01:34.0846979	Miner's grace/Tags for minecraft:block
+53f9730eb9e7622fe7ba871435f9a457dfebd200 data\miners-grace\tags\blocks\metal_detector_stage_three_detectable_blocks.json
+66f51cef78ac0b8c290f3920576cc0a8ab69daf3 data\miners-grace\tags\blocks\metal_detector_stage_one_detectable_blocks.json
+946e08e4358372798d62babba9738f43cfb5453b data\miners-grace\tags\blocks\metal_detector_stage_two_detectable_blocks.json

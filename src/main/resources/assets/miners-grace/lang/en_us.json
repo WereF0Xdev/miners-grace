@@ -1,0 +1,28 @@
+{
+  "item.miners-grace.metal_detector_stage_one": "Metal Detector",
+  "item.miners-grace.metal_detector_stage_two": "Metal Detector",
+  "item.miners-grace.metal_detector_stage_three": "Metal Detector",
+  "item.miners-grace.xp_extractor": "Experience Extractor",
+  "item.miners-grace.magnifier": "Magnifier",
+  "item.miners-grace.cogwheel": "Cogwheel",
+  "item.miners-grace.sun_amulet": "Sun Amulet",
+
+  "tooltip.miners-grace.metal_detector.tooltip": "§eFinds valuables underground!",
+  "tooltip.miners-grace.metal_detector_stage_two.tooltip": "§9§nAlso tracks Emeralds and Diamonds",
+  "tooltip.miners-grace.metal_detector_stage_three.tooltip": "§c§nAlso tracks Ancient Debris",
+
+  "enchantment.miners-grace.auto_smelt": "Auto Smelt",
+  "enchantment.miners-grace.vein_miner": "Vein Miner",
+
+  "itemgroup.miners-grace": "§6Miner's Grace",
+
+  "text.config.miners-grace-config.option.ExperienceExtractorExperienceDrop": "Experience Extractor XP Drop",
+  "text.config.miners-grace-config.option.AutoSmeltLevelOneSmeltingChance": "AutoSmelt Level One Smelting Chance",
+  "text.config.miners-grace-config.option.AutoSmeltLevelTwoSmeltingChance": "AutoSmelt Level Two Smelting Chance",
+  "text.config.miners-grace-config.option.AutoSmeltLevelThreeSmeltingChance": "AutoSmelt Level Three Smelting Chance",
+
+  "text.config.miners-grace-config.section.Items": "Items",
+  "text.config.miners-grace-config.section.Enchantments": "Enchantments",
+
+  "text.config.miners-grace-config.title": "Miner's Grace"
+}

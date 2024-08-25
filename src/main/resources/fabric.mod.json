@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "miners-grace",
+	"version": "${version}",
+	"name": "Miner's grace",
+	"description": "Enhance your mining experience with Miner's Grace. Adds great tools and features to, as the name suggests, make miners' lives worth livin'.",
+	"authors": [
+		"WereF0X"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "All Rights Reserved",
+	"icon": "assets/miners-grace/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"fox.mods.MinersGrace"
+		],
+		"fabric-datagen": [
+			"fox.mods.MinersGraceDataGenerator"
+		]
+	},
+	"mixins": [
+		"miners-grace.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

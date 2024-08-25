@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "H": [],
+    "S": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "HBH",
+    "HBH",
+    "CSC"
+  ],
+  "result": {
+    "item": "miners-grace:metal_detector_stage_one"
+  },
+  "show_notification": true
+}

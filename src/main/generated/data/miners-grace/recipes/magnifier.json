@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:flint"
+    },
+    "F": [],
+    "S": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "pattern": [
+    "SFS",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "item": "miners-grace:magnifier"
+  },
+  "show_notification": true
+}

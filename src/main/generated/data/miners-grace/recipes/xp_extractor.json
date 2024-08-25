@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:glass"
+    },
+    "S": {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "pattern": [
+    "CBC",
+    "CSC",
+    "CBC"
+  ],
+  "result": {
+    "item": "miners-grace:xp_extractor"
+  },
+  "show_notification": true
+}
